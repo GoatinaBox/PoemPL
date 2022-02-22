@@ -1,0 +1,16 @@
+How it works:
+
+***Under Construction Sorry :( ***
+
+1- Sentences are read as statements
+2- Sentences are not case sensitive.
+
+ASSIGNMENT:
+
+PRINTING:
+-If the first word contains "haykır","söyle","anlat","boş" the sentence is recognized as a print sentence.
+-After the first word the first letter of every word that comes after is printed with a few exceptions.
+    *If the word is the name of a variable, the value of that variable is printed instead.
+    *If the word contains "boş","rahat" -> " " is printed
+    *If the word contains "bırak","ayrıl","kır","terk", "\n" is printed.
+
