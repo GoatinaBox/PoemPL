@@ -6,6 +6,7 @@ MODIFIED FIZZ BUZZ
 
 
 ########################################################
+
 Yalnız başıma ,içipdururum.
 Sevdiğim odur.
 
@@ -24,6 +25,7 @@ Anlat bana umduğun zalimlikleri bırakmadığını.
 
 Ekleme sevdiğim sevdiğim .
 Lütfen bana geri dönme ...
+
 ########################################################
 
 
