@@ -5,10 +5,10 @@ MODIFIED FIZZ BUZZ
 **------------------------------------------------------------
 
 **Yalnız başıma ,içipdururum.
-**Sevdiğim odur.
+Sevdiğim odur.
 
 **Sevdiğim yalnız ve az üzgünken.
-**Anlat sevdiğim ayrılışını
+Anlat sevdiğim ayrılışını
 
 **Gitmediğin hane sevdiğim yol
 Hane terkedildi ise
