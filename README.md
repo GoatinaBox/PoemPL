@@ -1,5 +1,5 @@
 # Example source code for "Modified FizzBuzz"
-(Prints the current number + if it is divisible by 3, then it prints fizz + if it is divisible by 5, then it prints buzz.)
+(Prints the current number on different lines. After each line; if it is divisible by 3, then it prints fizz on a new line + if it is divisible by 5, then it prints buzz on a new line.)
 
 ------------------------------------------------------------
 
